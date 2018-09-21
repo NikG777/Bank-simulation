@@ -1,2 +1,2 @@
 # Projects-for-IoT
-Файлы для Sumsung.
+Файлы для Samsung.
